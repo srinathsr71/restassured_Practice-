@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-16T06:36:59Z" name="Default suite" finished-at="2022-11-16T06:37:07Z" duration-ms="8539">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T06:36:59Z" name="Default test" finished-at="2022-11-16T06:37:07Z" duration-ms="8539">
+      <class name="practice.rest_assured_ecommerce2">
+        <test-method signature="creat_order()[pri:0, instance:practice.rest_assured_ecommerce2@7d286fb6]" started-at="2022-11-16T12:06:59Z" name="creat_order" finished-at="2022-11-16T12:07:07Z" duration-ms="8483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creat_order -->
+      </class> <!-- practice.rest_assured_ecommerce2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
